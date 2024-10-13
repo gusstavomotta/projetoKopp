@@ -1,5 +1,3 @@
-CREATE DATABASE infracoes_db;
-\c infracoes_db;
 
 CREATE TABLE IF NOT EXISTS remessaInfracoes (
     id SERIAL PRIMARY KEY,
